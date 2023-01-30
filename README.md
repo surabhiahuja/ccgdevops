@@ -1,3 +1,7 @@
 # ccgdevops
-Team 2 makes a change
-Team 2 makes another change
+
+My first repository on github.
+
+I love 🥦 🍰 and 🍕.
+
+Team 2 changes rejected
